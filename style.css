@@ -1,0 +1,41 @@
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 12px;
+}
+.rock{
+    background-color: gray; 
+}
+.paper{
+    background-color:whitesmoke; 
+    color: gray;
+}
+.scissors{
+    background-color:cadetblue; 
+}
+.row{
+    margin-top: 119px;
+}
+
+#com-choice{
+text-align: center;
+color: gray;
+}
+
+#player-choice{
+text-align: center;
+color: gray
+}
+p{
+text-align: center;
+color: gray;
+}
+
+#outcome{
+text-align: center;
+color: cadetblue;
+font-weight: bold;
+}
